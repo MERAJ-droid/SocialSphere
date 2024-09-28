@@ -1,0 +1,26 @@
+# Environment files
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Build files
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Dependency files
+yarn.lock
+package-lock.json
+
+# Editor and IDE settings
+.vscode/
+.idea/
